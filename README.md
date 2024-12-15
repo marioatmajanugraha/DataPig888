@@ -85,7 +85,7 @@ node createWallet.js
 
 To start the bot, execute the following command:
 ```bash
-node vanaSender.js
+node VanaSender.js
 ```
 
 ## ▶️ **How to Run the Bot**
