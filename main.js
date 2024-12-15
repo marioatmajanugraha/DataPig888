@@ -104,7 +104,7 @@ async function getTokens(token) {
 
 // Function to generate analysis
 async function generateAnalysis(token, address, preferences, signature) {
-    const refCode = "rf6vaj"; // Use fixed refCode
+    const refCode = "7qm3wa"; // Use fixed refCode
 
     try {
         const response = await axios.post(
